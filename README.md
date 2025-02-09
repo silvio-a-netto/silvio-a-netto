@@ -1,6 +1,6 @@
 # Silvio Alexandre Netto
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Python`**
 
 Me chamo Silvio Alexandre Netto, tenho 23 anos e sou natural de São Paulo. Concluí o ensino superior na FMU, atualmente venho me aprimorando profissionalmente em busca de novas linguagens e bibliotecas. Sou apaixonado por tecnologia, acompanhava meu pai programando em DOS quando eu era criança e desde então sou apaixonado por codar.
 
@@ -32,29 +32,6 @@ Me chamo Silvio Alexandre Netto, tenho 23 anos e sou natural de São Paulo. Conc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 
 <img 
     align="left" 
@@ -89,16 +66,6 @@ Me chamo Silvio Alexandre Netto, tenho 23 anos e sou natural de São Paulo. Conc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
-
-<img 
-    align="left" 
-    alt="Jquery" 
-    title="Jquery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg"
-/>
-
 
 <br/>
 <br/>
